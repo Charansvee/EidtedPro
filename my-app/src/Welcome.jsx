@@ -1,0 +1,9 @@
+import { Component, component } from "react";
+
+export class Welcome extends Component{
+    render(){
+        return(
+            <h1>Welcome to class Component</h1>
+        )
+    }
+}
